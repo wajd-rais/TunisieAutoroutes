@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39630145015",
+    "project_id": "tunisie-autoroutes",
+    "storage_bucket": "tunisie-autoroutes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39630145015:android:67cc75b52935023f181af2",
+        "android_client_info": {
+          "package_name": "com.example.tunisie_autoroutes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39630145015-uliomtoanl9b13a7pp26v5bb2nf6d3op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7sIu4bDgmhdKFMmktnWC53EzgwWxgxl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39630145015-990g2vlbkhmip7qt5rkq1flt9rg4st2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
